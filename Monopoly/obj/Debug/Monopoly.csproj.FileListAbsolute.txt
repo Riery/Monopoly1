@@ -1,0 +1,6 @@
+c:\users\rierys\documents\visual studio 2015\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Rierys\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Rierys\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Rierys\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Rierys\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Rierys\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
